@@ -1,0 +1,23 @@
+SGK,25
+Emekli Sandığı,45
+Ace Grup Sigorta,35
+Acıbadem,35
+Akbank,30
+Allianz Sigorta,25
+Anadolu Sigorta,20
+AvivaSA,40
+Benefit Global&Euroko Sigorta,20
+Demir Hayat Sigorta,20
+Dr. Back-Up Kişisel Sağlık Sistemi,25
+Ege Sigorta,15
+Ergo Sigorta,25
+Eureko Sigorta,30
+Grupama Emeklilik,15
+HDI Sigorta,30
+Med Power,20
+TBMM,30
+Sampo Japan Sigorta,30
+Şeker Sigorta,35
+Vakıf Emeklilik,25
+Ziraat Sigorta,30
+Zurich Sigorta,35

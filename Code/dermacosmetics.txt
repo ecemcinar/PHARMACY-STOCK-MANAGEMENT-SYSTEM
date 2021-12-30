@@ -1,0 +1,127 @@
+barcode,productName,price,stock,category
+5203,LA ROCHE-POSAY HYALU B5 PURE HYALURONIC ACID SERUM,149.90,10,Serum
+5204,LA ROCHE-POSAY ANTHELIOS MINERAL TINTED SUNSCREEN FOR FACE SPF 50,129.90,4,Sun Protection
+5205,LA ROCHE-POSAY ANTHELIOS MELT-IN MILK SUNSCREEN SPF 60,129.90,5,Sun Protection
+5206,LA ROCHE-POSAY 10% PURE VITAMIN C SERUM,89.90,6,Serum
+5207,LA ROCHE-POSAY TOLERIANE ULTRA MOISTURIZING CREAM,119.90,4,Skincare
+5208,LA ROCHE-POSAY ANTHELIOS ULTRA LIGHT FLUID FACIAL SUNSCREEN SPF 60,139.90,5,Sun Protection
+5209,LA ROCHE-POSAY TOLERIANE DOUBLE REPAIR FACE MOISTURIZER,69.90,3,Skincare
+5210,LA ROCHE-POSAY REDERMIC R RETINOL CREAM,89.90,7,Skincare
+5211,LA ROCHE-POSAY LIPIKAR BALM AP+ MOISTURIZER FOR DRY SKIN,179.90,4,Skincare
+5212,LA ROCHE-POSAY EFFACLAR MAT MATTIFYING MOISTURIZER FOR OILY SKIN,49.90,6,Skincare
+5213,LA ROCHE-POSAY REDERMIC R RETINOL EYE CREAM,89.90,4,Skincare
+5214,LA ROCHE-POSAY EFFACLAR DUO ACNE SPOT TREATMENT,89.90,4,Skincare
+5215,LA ROCHE-POSAY RETINOL B3 PURE RETINOL SERUM,79.90,3,Serum
+5216,LA ROCHE-POSAY CICAPLAST BALM B5 FOR DRY SKIN IRRITATIONS,46.90,2,Skincare
+5217,LA ROCHE-POSAY EFFACLAR ANTI-AGING PORE MINIMIZER FACE SERUM,79.90,3,Serum
+5218,LA ROCHE-POSAY EFFACLAR ACNE TREATMENT SYSTEM,199.90,4,Skincare
+5219,LA ROCHE-POSAY ANTHELIOS LOTION SPRAY SUNSCREEN SPF 60,99.90,2,Sun Protection
+5220,LA ROCHE-POSAY THERMAL SPRING WATER FACE MIST,85.90,9,Skincare
+5221,LA ROCHE-POSAY EFFACLAR FACIAL WIPES FOR OILY SKIN,29.90,10,Skincare
+5222,LA ROCHE-POSAY EFFACLAR MEDICATED ACNE FACE WASH,39.90,3,Skincare
+5223,LA ROCHE-POSAY EFFACLAR GEL FACIAL WASH FOR OILY SKIN,46.90,5,Skincare
+5224,LA ROCHE-POSAY EFFACLAR SHINE CONTROL CLAY MASK,29.90,2,Skincare
+5225,LA ROCHE-POSAY EFFACLAR CLARIFYING SOLUTION ACNE TONER,59.90,4,Skincare
+5226,LA ROCHE-POSAY EFFACLAR ASTRINGENT TONER FOR OILY SKIN,52.90,3,Skincare
+5227,LA ROCHE-POSAY EFFACLAR MICELLAR WATER FOR OILY SKIN,59.5,4,Skincare
+5228,LA ROCHE-POSAY EFFACLAR ANTI-AGING PORE MINIMIZER FACE SERUM,249.90,3,Serum
+5329,Face and Body Milk For Dry To Very Dry Skin,39.90,8,Skincare
+5330,CeraVe Moisturizers For Oily Skin,29.90,70,Skincare
+5031,CeraVe Moisturizing Care for Normal and Dry Skin,29.90,45,Skincare
+5332,Bio-Oil Skin Care Oil,79.90,4,Skincare
+5333,Sesderma Restorative Cream with Retinol and Vitamin C,89.90,5,Serum
+5334,Bioderma Atoderm Intensive Baume Intense Soothing Balm For Very Dry Sensitive And Atopic Skin,49.90,4,Skincare
+5335,Saffee Cleansing Balancing Toner for Oily and Combination Skin,89.90,4,Skincare
+5336,Nuxe Crème Prodigieuse Boost Energising Treatment for Flawless Skin,59.99,12,Skincare
+5337,Avène Eau Thermal Water,15.90,17,Skincare
+5338,Sesderma Azelac RU Depigmentation Serum,124.90,4,Serum
+5600,LIERAC HYDRAGENIST MOISTURIZING SERUM,55.90,4,Serum
+5601,LIERAC HYDRAGENIST MOISTURIZING GEL CREAM,60.90,6,Skincare
+5602,LIERAC HYDRAGENIST HYDRA-SMOOTHING EYE GEL,45.00,12,Skincare
+5603,LIERAC HYDRAGENIST MOISTURIZING CREAM,60.00,7,Skincare
+5604,LIERAC HYDRAGENIST MORNING MOISTURIZING MIST,44.90,7,Skincare
+5605,LIERAC HYDRAGENIST MOISTURIZING RESCUE MASK,47.0,7,Skincare
+5607,LIERAC BODY-NUTRI+ ANTI-DRYNESS BODY LOTION,35.0,4,Skincare
+5608,LIERAC BODY-HYDRA+ PLUMPING MILK,35.90,15,Body Care
+5609,LIERAC PHYTOLASTIL SOLUTION,249.99,3,Skincare
+5610,LIERAC MICELLAR MILK DOUBLE CLEANSER,29.89,12,Skincare
+5611,LIERAC BODY-SLIM FIRMING CONCENTRATE BEAUTIFYING & SLIMMING,289.90,4,Body Care
+5612,LIERAC LIFT INTEGRAL EYE LIFT SERUM,75.90,4,Serum
+5613,LIERAC LIFT INTEGRAL LIFT FLASH MASK,80.0,3,Skincare
+5614,LIERAC LIFT INTEGRAL SUPERACTIVATED LIFT SERUM,309.90,2,Serum
+5615,LIERAC LIFT INTEGRAL GEL NECK & DÉCOLLETÉ,90.90,7,Skincare
+5616,LIERAC PREMIUM THE CURE ABSOLUTE ANTI-AGING,279,90,2,Serum
+5617,LIERAC PREMIUM THE VOLUPTUOUS CREAM,145.90,4,Skincare
+5618,LIERAC PREMIUM THE SILKY CREAM,179.90,4,Skincare
+5619,LIERAC PREMIUM THE SUPREME MASK,99.90,3,Skincare
+5620,LIERAC PREMIUM SOYEUSE & THE CURE,289.90,2,Skincare
+5621,LIERAC PREMIUM EYES,95.00,4,Serum
+5622,LIERAC PHYTOLASTIL GEL,49.00,14,Skincare
+5623,LIERAC PHYTOLASTIL DUO STRETCH MARK CORRECTION CONCENTRATE,149.90,4,Body Care
+5937,CLINIQUE Moisture Surge™ 100-Hour Auto-Replenishing Hydrator,89.90,2,Skincare
+5938,CLINIQUE Take The Day Off Cleansing Balm,59.90,4,Skincare
+5939,CLINIQUE Take The Day Off Makeup Remover For Lids Lashes & Lips,29.90,4,Skincare
+5940,CLINIQUE Acne Solutions™ Clinical Clearing Gel,46.75,3,Skincare
+5941,CLINIQUE Clinique Smart™ Custom-Repair Serum,54.89,4,Skincare
+5942,CLINIQUE Acne Solutions™ Cleansing Foam,37.90,3,Skincare
+5943,CLINIQUE Moisture Surge™ Intense 72H Lipid-Replenishing Hydrator,56.90,4,Skincare
+5944,CLINIQUE Exfoliating Scrub,26.90,4,Skincare
+5945,CLINIQUE Mini Take The Day Off Cleansing Balm,19.90,5,Skincare
+5946,CLINIQUE Clarifying Lotion 3,29.90,4,Skincare
+5947,CLINIQUE Take The Day Off Cleansing Oil,89.95,3,Skincare
+5948,CLINIQUE Turnaround Overnight Revitalizing Moisturizer,136.90,7,Skincare
+5949,CLINIQUE Dramatically Different Hydrating Jelly,29.89,4,Skincare
+5950,CLINIQUE Rinse-Off Foaming Cleanser,26.95,3,Skincare
+5951,CLINIQUE Clean Skin Fresh Start Acne Solutions Set,155.00,2,Skincare
+5952,CLINIQUE All About Eyes Serum De-Puffing Eye Massage,75.00,21,Skincare
+5953,CLINIQUE Smart Night Custom-Repair Moisturizer - Very Dry to Dry,68.75,3,Skincare
+5954,CLINIQUE Pep-Start Eye Cream,17.90,16,Skincare
+5955,CLINIQUE iD™ Dramatically Different™ Hydrating Clearing Jelly,89.90,4,Skincare
+5956,CLINIQUE Active Cartridge Concentrate™ for Imperfections,123.99,5,Skincare
+5957,CLINIQUE Moisture Surge Hydrating Supercharged Concentrate,41.45,6,Skincare
+5958,CLINIQUE Repairwear Laser Focus Night Line Smoothing Cream for Very Dry to Dry Combination Skin,59.79,5,Skincare
+5960,CLINIQUE Moisture Surge Hydrating Supercharged Concentrate,43.75,24,Skincare
+5961,CLINIQUE Mini Dramatically Different Moisturizing Lotion+,23.50,18,Skincare
+7204,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,34.80,3,Serum
+7205,OLEHENRIKSEN Truth Serum,192.85,4,Serum
+7207,Farmacy Green Clean Makeup Removing Cleansing Balm,27.49,5,Skincare
+7211,The INKEY List Retinol Anti-Aging Serum,29.90,45,Serum
+7212,The INKEY List Vitamin B C and E Moisturizer,39.75,26,Skincare
+7213,The INKEY List Hyaluronic Acid Hydrating Serum,27.50,18,Serum
+7478,The Ordinary "Buffet",56.45,6,Serum
+7479,The Ordinary Niacinamide 10% + Zinc 1%,29.59,4,Serum
+7480,The Ordinary Hyaluronic Acid 2% + B5,34.50,16,Serum
+7481,The Ordinary AHA 30% + BHA 2% Peeling Solution,46.28,5,Serum
+7482,The Ordinary Glycolic Acid 7% Toning Solution,37.00,4,Serum
+7483,The Ordinary 100% L-Ascorbic Acid Powder,63.75,16,Serum
+7487,The Ordinary Multi-Peptide Serum for Hair Density,56.99,4,Serum
+7488,The Ordinary 100% Organic Cold-Pressed Rose Hip Seed,54.50,12,Serum
+7489,The Ordinary Lactic Acid 10% + HA,25.46,8,Serum
+7490,The Ordinary Salicylic Acid 2% Masque,38.25,4,Serum
+7491,The Ordinary Argireline Solution 10%,15.99,16,Serum
+7492,The Ordinary Resveratrol 3% + Ferulic Acid 3%,63.75,5,Serum
+7493,The Ordinary 100% Plant-Derived Squalane,78.88,4,Serum
+7494,The Ordinary 100% Plant-Derived Squalane,42.35,4,Serum
+7495,The Ordinary Matrixyl* 10% + HA,23.75,8,Serum
+7496,The Ordinary Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F,99.10,5,Serum
+7497,The Ordinary "B" Oil,19.90,36,Serum
+7498,The Ordinary 100% Plant-Derived Hemi-Squalane,17.99,29,Serum
+8313,Kiehl's Calendula Herbal Extract Alcohol Free Toner,49.90,4,Serum
+8314,Kiehl's Creme de Corps Soy Milk & Honey Whipped Body Butter,59.90,6,Body Care
+8315,Kiehl's Powerful-Strength Line-Reducing Concentrate 12.5% Vitamin C,279.90,2,Serum
+8316,Kiehl's Midnight Recovery Concentrate,239.45,4,Skin Care
+8317,Kiehl's Ultra Facial Oil-Free Gel Cream,56.79,36,Skin Care
+8318,Kiehl's Super Multi-Corrective Anti-Aging Face and Neck Cream,299.90,5,Skin Care
+8319,Kiehl's Ultimate Strength Hand Salve,24.90,50,Skin Care
+8320,Kiehl's Calendula Serum-Infused Water Cream,79.54,8,Skin Care
+8421,Kiehl's Deep Pore Cleansing Kit,152.16,5,Skin Care
+8422,Kiehl's Ultra Facial Cream & Cleanser Duo,89.90,4,Skin Care
+8423,Kiehl's Calendula Petal-Infused Calming Mask with Aloe Vera,90.05,32,Skin Care
+8424,Kiehl's Daily Reviving Concentrate,54.75,4,Skin Care
+8425,Kiehl's Cannabis Sativa Seed Oil Herbal Concentrate (Hemp-Derived),145.89,3,Skin Care
+8426,Kiehl's Age Defender Moisturizer,320.49,5,Skin Care
+8427,Kiehl's Cucumber Herbal Conditioning Cleanser,25.50,79,Skin Care
+8428,Kiehl's Creme de Corps Nourishing Dry Body Oil,68.75,4,Skin Care
+8429,Kiehl's Oil Eliminator Deep Cleansing Exfoliating Face Wash For Men,34.51,5,Skin Care
+8430,Kiehl's Clearly Corrective™ Brightening & Exfoliating Daily Cleanser,29.90,6,Skin Care
+8431,Kiehl's "Ultimate Man" Body Scrub Soap,14.90,25,Body Care

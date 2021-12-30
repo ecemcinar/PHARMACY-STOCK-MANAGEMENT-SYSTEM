@@ -1,0 +1,6 @@
+username,password,name,surname,membership
+aysefatma,55555,Ayşe,Tarlacı,supplier
+kingsupplier,iamking,Niels,Bohr,supplier
+ecemcc,12561014,ecem,cinar,Supplier
+kromatinipligi,654321,akin,cetin,Supplier
+kromatin,123456,akin,cetin,Supplier

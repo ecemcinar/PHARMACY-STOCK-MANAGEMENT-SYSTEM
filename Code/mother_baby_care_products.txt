@@ -1,0 +1,100 @@
+barcode,name,price,quantity,category
+4010,Classic Soothers Soother orange,9.9,4,Others
+4008,Classic Soothers Soother pink,9.99,8,Others
+4009,Classic Soothers Soother blue,9.99,8,Others
+4008,Classic Soothers Soother red,9.99,8,Others
+4008,Classic Soothers Soother yellow,9.99,8,Others
+2642,baby me Baby Lotion 300 ml,12.99,5,Skincare
+2006,Eyüp Sabri Tuncer Baby Cologne 190 ml,12.99,14,Others
+6614,PUDDIE DIAPER RASH CREAM,13.99,1,Skincare
+2005,Eyüp Sabri Tuncer Natural Black Mulberry Extract Toothpaste 60 ml,14.99,3,Others
+3143,Wee Baby Nail Clipper for Babies,14.99,10,Baby Nail Care
+7703,Dalin Baby Cologne 150 ml,15.99,5,Others
+6611,PUDDIE BABY COLOGNE,16.9,11,Others
+6621,PUDDIE BABY SHAMPOO,17.9,8,Baby Hair Care
+2214,Milkway Baby Replacement Aspirator Filter 10 pcs,17.99,5,Others
+4006,Classic Soothers Soother pink,19.9,11,Others
+4004,Sweet Baby Economic Groups Of Soothers,19.9,12,Others
+4011,Complete Silicone Soothers,19.9,8,Others
+3146,Wee Baby Silicone Nasal Aspirator BPA Free,19.99,4,Others
+8257,Desitin Rapid Protection Rash Prevention Cream 100 ml,22.9,1,Skincare
+4723,Penaten Baby Care Cream 25 ml,22.9,4,Skincare
+9123,Lionesse Magnifying Nail Clippers,22.9,4,Baby Nail Care
+2216,Uni Baby Baby Oil Powder 200 ml,22.9,5,Skincare
+2247,Uni Baby Rash Relief Cream 75 ml,22.9,2,Skincare
+2249,Uni Baby Baby Oil Chamomile 200 ml,22.9,6,Skincare
+4003,Sweet Baby Feeding Bottle,23.9,18,Others
+7704,Dalin Baby Oil Normal 300 ml,24.45,10,Skincare
+2241,Uni Baby Baby Lotion 200 ml,24.6,6,Skincare
+4157,Johnsons Baby Bedtime Oil 300 ml,24.9,4,Skincare
+3512,Sebamed Rash Cream 50 ml,24.9,4,Skincare
+5624,THE MOMS CO. Natural Baby Shampoo,25.9,10,Baby Hair Care
+2641,baby me Baby Powder Scent 50 ml,26.9,5,Skincare
+4001,Sweet Baby Breast Ped 30 pcs,29.9,4,Others
+4013,Orthodontic Soothers Soother pink,29.9,2,Others
+4014,Orthodontic Soothers Soother yellow,29.9,14,Others
+4015,Orthodontic Soothers Soother blue,29.9,6,Others
+4016,Orthodontic Soothers Soother purple,29.9,5,Others
+4017,Orthodontic Soothers Soother green,29.9,7,Others
+5622,THE MOMS CO. Natural Baby Wash,29.9,6,Baby Hair Care
+5641,THE MOMS CO. Natural Foot Cream,29.9,4,Skincare
+2211,baby plus Baby Natural Brush&Comb Set,29.9,1,Baby Hair Care
+6619,PUDDIE BABY POWDER,29.9,8,Skincare
+2020,Nuk 0 BPA Baby Nasal Aspirator with Replacement Tip,34.9,2,Others
+3145,Wee Baby Baby Nose Cleaner BPA Free 0 M+,36.9,4,Others
+3427,Jack N'Jill Baby Bunny BIO Toothbrush,39.75,3,Dental Care
+1494,Hipp Babysanft Mini Sun Milk 30 Factor 50 ml,39.9,3,Sun Protection
+3647,Jack N'Jill Baby Dino BIO Toothbrush,39.9,5,Dental Care
+3510,Sebamed Baby Healing Cream 100 ml,39.9,5,Skincare
+7301,Nivea Baby Baby Oil 200 ml,39.9,5,Skincare
+7302,Nivea Baby Bottom Oinment-100 ml,39.9,5,Skincare
+3651,Chicco Soluzione Physio Clean Solution IPER 10x2 ml,39.9,4,Others
+6617,PUDDIE BABY OIL,39.9,16,Skincare
+1004,Bübchen Baby Rash Prevention Cream-75ml,42.85,5,Skincare
+2356,Jack N'Jill Baby Natural Toothpaste - Strawberry 50 g,42.9,5,Dental Care
+5602,Jack N'Jill Baby Natural Toothpaste - Banana 50 g,42.9,5,Dental Care
+1490,Hipp Baby Sunscreen Cream 30 Factor 50 ml,44.9,2,Sun Protection
+1492,Hipp Babysanft Sun Cream For Face 30 ml,44.9,3,Sun Protection
+1003,Bübchen Baby Moisturizing Milk 200 ml,44.9,5,Skincare
+1006,Bübchen Anti-Moisture Baby Powder 100 g,44.9,7,Skincare
+1529,Penaten Baby Oil 200 ml,44.9,5,Skincare
+3649,Chicco Fine-Toothed Comb For Cradle Cap 0 M+,44.9,8,Others
+8264,Otribebe Baby Nasal Aspirator,46.9,5,Others
+5629,THE MOMS CO. Natural Talc-Free Baby Powder 2 pcks,46.9,4,Skincare
+1479,Sudocrem Baby Care Cream 125 ml,49.9,5,Skincare
+5634,THE MOMS CO. Natural Body Butter,49.9,5,Skincare
+5643,THE MOMS CO. Natural Pain Relief Oil (100ML),49.9,6,Others
+1880,Bepanthol Ointment 50 g,49.9,5,Skincare
+1370,TruKid Truly Natural Sunny Days Sport SPF 30 Baby Sun Protection,49.99,7,Sun Protection
+5627,THE MOMS CO. Natural Baby Cream For Face (50G),59.9,6,Skincare
+5636,THE MOMS CO. Natural Stretch Oil (100ML),59.9,3,Skincare
+4724,Penaten Baby Care Lotion 400 ml,59.9,6,Skincare
+2871,Chicco Baby Soft Brush Comb Set 0 M blue+,62.9,5,Baby Hair Care
+3653,Chicco Baby Soft Brush Comb Set 0 M+ pink,62.9,2,Baby Hair Care
+5632,THE MOMS CO. Natural Diaper Rash Cream 2 pcks,63.9,5,Skincare
+4002,Sweet Baby Brest Pump,67.9,2,Others
+4156,Mustela Vitamin Barrier Cream 100 ml,69.9,15,Skincare
+5639,THE MOMS CO. Natural Body Lotion (200ML),69.9,7,Skincare
+1493,Hipp Sun Milk 30 Factor 200 ml,79.9,2,Sun Protection
+1002,Bepanthol SensiDaily 150 ml,84.9,5,Skincare
+3645,Chicco Baby Nail Care Set 4 pcs pink,84.9,4,Baby Nail Care
+3647,Chicco Baby Nail Care Set 4 pcs blue,84.9,3,Baby Nail Care
+4005,Sweet Baby Soothers Packed In Box,86.9,4,Others
+5633,THE MOMS CO. Strech Marks Bundle,89.9,10,Skincare
+1879,Bepanthol Baby Nappy Care Ointment Cream 100 gr,89.9,5,Skincare
+1487,Hipp Babysanft Spray Sun Cream 50+ Factor 150 ml,99.9,2,Sun Protection
+5637,THE MOMS CO. Natural Nipple Butter,99.9,3,Skincare
+2003,Eyüp Sabri Tuncer Baby Care Set with Bag Gift,99.9,5,Others
+2254,Uni Baby Newborn Baby Care Bag Set,99.9,2,Others
+9963,Sebamed Baby Sun Cream 50+ spf 75 ml,114.9,5,Sun Protection
+9964,Sebamed Baby Sun Lotion 50+ spf 150 ml,119.9,5,Sun Protection
+2207,baby plus Baby Care Set,119.9,5,Baby Nail Care
+3652,Chicco Pediatric Thermometer Gift Set,119.9,2,Others
+5630,THE MOMS CO. New Born Baby Care Essentials,127.9,3,Skincare
+5623,THE MOMS CO. Baby Bath Bestseller Combo,139.9,2,Baby Hair Care
+2018,Babyjem Baby Care Set 9 pcs 0 M+ pink,144.9,3,Others
+2019,Babyjem Baby Care Set 9 pcs 0 M+ blue,144.9,3,Others
+1478,Trukid Truly Natural Everyday SPF 30 Baby Sun Protection,159.9,5,Sun Protection
+6612,BABYSER NOSE SPRAY,159.9,2,Others
+5635,THE MOMS CO. Mom-To-Be Complete Care Gift Set,167.9,2,Skincare
+6613,BABYSER NOSE DROP,169.6,3,Others

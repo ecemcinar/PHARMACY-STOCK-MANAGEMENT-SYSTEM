@@ -1,0 +1,8 @@
+id,username,password,name,surname,age,gender,bloodgroup,insurance,membership
+36481748941,keplerj,kepler123,Johannes,Kepler,36,Male,A RhD positive (A+),Acıbadem,customer
+69627978223,maxb90,123456,Max,Born,31,Male,O RhD positive (O+),Med Power,customer
+92479313974,sarah_boysen,316497,Sarah,Boysen,65,Female,AB RhD negative (AB-),Acıbadem,customer
+79938522386,username123,passw0rd,Lord,Kelvin,30,Other,O RhD negative (O-),Anadolu Sigorta,customer
+93486764567,metinmetin,sifremcokguclu,Deniz,Kahraman,27,rather not say,O RhD negative (O-),Ege Sigorta,customer
+15226417648,ecemsevval,125610,ecem şevval,cinar,2,Other,B RhD positive (B+),Emekli Sandığı,Customer
+15226417647,ecemkl,123456,ecem,cinarckl,4,Rather not say,O RhD positive (O+),Ace Grup Sigorta,Customer

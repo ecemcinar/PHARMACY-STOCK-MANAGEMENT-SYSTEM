@@ -1,0 +1,5 @@
+username,password,membership
+ecemcc,cinar,pharmacist
+akincetin,123456,pharmacist
+edaeczanesi1,768524,pharmacist
+edaeczanesi2,eczanemeda2,pharmacist
